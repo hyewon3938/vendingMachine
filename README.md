@@ -1,1 +1,1 @@
-# vendingMachine
+# vm-8

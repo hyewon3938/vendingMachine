@@ -1,0 +1,30 @@
+  [
+    {
+      "money": "10",
+      "money_qty": 0
+    },
+    {
+      "money": "50",
+      "money_qty": 1
+    },
+    {
+      "money": "100",
+      "money_qty": 5
+    },
+    {
+      "money": "500",
+      "money_qty": 5
+    },
+    {
+      "money": "1000",
+      "money_qty": 2
+    },
+    {
+      "money": "5000",
+      "money_qty": 2
+    },
+    {
+      "money": "10000",
+      "money_qty": 3
+    }
+  ]
